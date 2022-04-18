@@ -1,0 +1,1 @@
+String imgPath = "assets/images/";
